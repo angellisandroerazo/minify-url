@@ -8,7 +8,7 @@
 
 ![web](./lib/img/minify-url.png)
 
-Visit the [website](https://github.com/angellisandroerazo/minify-url).
+Visit the [website](http://mfyurl.somee.com).
 
 
 Tool to shorten URLs and generate short links. Allows to create a shortened link making it easy to share.
