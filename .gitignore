@@ -3,6 +3,11 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/master/VisualStudio.gitignore
 
+# appsettings.json is a configuration file containing sensitive data
+# that should not be checked into source control.
+appsettings.json
+appsettings.Development.json
+
 # User-specific files
 *.rsuser
 *.suo
